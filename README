@@ -1,0 +1,5 @@
+word_anagram.h/word_anagram.cpp: The library to implement the function to find all anagrams in a dictionary from a given input list of characters.
+main.cpp: The main function.
+test.cpp: A test file that relies on google test framework.
+runme.sh: The script to compile and run main function, usage: ./runme.sh
+cleanup.sh: A script to clean up intermediate files during complication, usage: ./cleanup.sh
